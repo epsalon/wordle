@@ -1,0 +1,2315 @@
+cable
+ ├─[***-.] cabal
+ ├─[***..] cabin
+ │  └─[***..] cabby
+ ├─[**.*.] caulk
+ ├─[**.--] camel
+ ├─[**.-.] carol
+ │  └─[**..*] cavil
+ │     └─[**..*] canal
+ ├─[**..*] caste
+ │  ├─[**-.*] cause
+ │  └─[**..*] canoe
+ │     └─[**..*] carve
+ │        └─[**..*] cache
+ ├─[**..-] cater
+ │  ├─[**-*.] cadet
+ │  ├─[**.**] caper
+ │  └─[**.*.] cameo
+ │     └─[**.*.] cagey
+ ├─[**...] carat
+ │  ├─[***..] cargo
+ │  │  └─[***..] carry
+ │  ├─[**-..] cairn
+ │  ├─[**.*.] cacao
+ │  ├─[**..*] caput
+ │  ├─[**..-] catty
+ │  │  ├─[***..] catch
+ │  │  └─[**.*.] cacti
+ │  └─[**...] candy
+ │     ├─[***.*] canny
+ │     ├─[***..] canon
+ │     └─[**.**] caddy
+ ├─[*-*..] cobra
+ ├─[*-.*.] chalk
+ ├─[*-.--] clear
+ │  └─[****.] cleat
+ │     └─[****.] clean
+ ├─[*-.-.] clasp
+ │  ├─[****.] clash
+ │  │  └─[****.] class
+ │  ├─[***.*] clamp
+ │  ├─[***..] clank
+ │  │  ├─[****.] clang
+ │  │  ├─[***.*] clack
+ │  │  └─[***..] claim
+ │  ├─[**-..] cloak
+ │  ├─[*-*..] crawl
+ │  └─[*--..] coral
+ ├─[*-..*] crate
+ │  ├─[***.*] crane
+ │  │  └─[***.*] crave
+ │  │     └─[***.*] craze
+ │  └─[*.*.*] chase
+ │     ├─[***.*] chafe
+ │     └─[*.***] cease
+ ├─[*-..-] cream
+ │  ├─[****.] creak
+ │  ├─[*--*.] cedar
+ │  └─[*.**.] cheat
+ │     └─[****.] cheap
+ ├─[*-...] charm
+ │  ├─[****.] chart
+ │  │  └─[****.] chard
+ │  ├─[***-.] chair
+ │  ├─[***.*] chasm
+ │  ├─[***.-] champ
+ │  ├─[***..] chant
+ │  │  ├─[***-.] chain
+ │  │  └─[***..] chaos
+ │  │     └─[***..] chaff
+ │  ├─[**-..] china
+ │  ├─[*-*-.] crash
+ │  ├─[*-*..] coach
+ │  ├─[*.*--] cramp
+ │  ├─[*.*-.] crank
+ │  │  ├─[***.*] crack
+ │  │  └─[***..] craft
+ │  │     └─[***..] crass
+ │  │        └─[***..] crazy
+ │  ├─[*.*..] coast
+ │  ├─[*.--.] cigar
+ │  │  ├─[**.--] circa
+ │  │  └─[*..*-] croak
+ │  ├─[*.-.-] comma
+ │  └─[*.-..] cocoa
+ ├─[*.*.-] cyber
+ ├─[*.*..] cubic
+ ├─[*.--.] climb
+ ├─[*.-..] crumb
+ ├─[*..**] cycle
+ ├─[*..*-] cello
+ ├─[*..*.] could
+ │  ├─[**.*.] coyly
+ │  ├─[*.-*.] curly
+ │  ├─[*..**] child
+ │  └─[*..*.] chill
+ │     └─[****.] chili
+ ├─[*..-*] close
+ │  └─[***.*] clone
+ │     └─[***.*] clove
+ ├─[*..--] cruel
+ │  ├─[*-.--] clerk
+ │  ├─[*.**-] clued
+ │  └─[*..--] cleft
+ ├─[*..-.] clink
+ │  ├─[****.] cling
+ │  ├─[***.*] click
+ │  ├─[***..] cliff
+ │  ├─[**.*.] clung
+ │  ├─[**.-.] clown
+ │  ├─[**..*] clock
+ │  │  └─[**.**] cluck
+ │  ├─[**...] clout
+ │  │  ├─[****.] cloud
+ │  │  ├─[***.-] cloth
+ │  │  └─[**.-.] clump
+ │  ├─[*--..] civil
+ │  ├─[*-.-.] colon
+ │  └─[*-...] color
+ ├─[*...*] crude
+ │  ├─[**..*] creme
+ │  │  ├─[***.*] crepe
+ │  │  ├─[**.**] crime
+ │  │  └─[**..*] crone
+ │  ├─[*--.*] curse
+ │  │  └─[***.*] curve
+ │  ├─[*-..*] chore
+ │  ├─[*.*.*] chute
+ │  │  └─[*.*.*] coupe
+ │  ├─[*.-.*] cutie
+ │  ├─[*..**] chide
+ │  └─[*...*] copse
+ │     ├─[*-.**] chose
+ │     ├─[*-..*] choke
+ │     └─[*...*] chime
+ ├─[*...-] crest
+ │  ├─[****.] cress
+ │  ├─[***.*] crept
+ │  ├─[***..] credo
+ │  │  ├─[***-.] creed
+ │  │  └─[***..] creep
+ │  │     └─[****.] creek
+ │  ├─[**-..] cried
+ │  │  └─[****.] crier
+ │  ├─[*-*..] cheer
+ │  ├─[*--..] corer
+ │  │  ├─[**.**] cower
+ │  │  │  └─[**.**] cover
+ │  │  └─[*..**] cider
+ │  ├─[*.***] chest
+ │  ├─[*.**.] chess
+ │  ├─[*.*..] cheek
+ │  │  └─[***.*] check
+ │  ├─[*.-.*] comet
+ │  │  └─[**.**] covet
+ │  └─[*.-..] coven
+ │     ├─[****.] covey
+ │     └─[*..*.] chief
+ ├─[*....] couch
+ │  ├─[***.*] cough
+ │  ├─[***..] court
+ │  │  └─[***.*] count
+ │  ├─[**.**] conch
+ │  ├─[**.-.] conic
+ │  │  └─[**.**] comic
+ │  ├─[**...] corny
+ │  │  ├─[**.-.] condo
+ │  │  └─[**..*] comfy
+ │  ├─[*--..] curio
+ │  │  └─[*--.-] croup
+ │  ├─[*-.*-] chock
+ │  ├─[*-.*.] crock
+ │  ├─[*-..-] choir
+ │  │  └─[***.-] chord
+ │  ├─[*-...] crown
+ │  │  ├─[****.] crowd
+ │  │  ├─[***.-] crony
+ │  │  └─[***..] cross
+ │  │     └─[***..] crook
+ │  ├─[*.**-] chuck
+ │  ├─[*.*.*] crush
+ │  ├─[*.*.-] churn
+ │  │  ├─[***.-] chunk
+ │  │  └─[***..] chump
+ │  ├─[*.*..] crust
+ │  │  └─[***..] crump
+ │  ├─[*.-..] curry
+ │  │  ├─[***.*] curvy
+ │  │  └─[**...] cumin
+ │  ├─[*..**] cinch
+ │  ├─[*..*-] chick
+ │  ├─[*..*.] crick
+ │  ├─[*..-.] cynic
+ │  │  └─[*..**] civic
+ │  ├─[*...-] chirp
+ │  └─[*....] crisp
+ │     ├─[***.*] crimp
+ │     └─[**..-] crypt
+ ├─[-*-..] bacon
+ │  └─[**-..] basic
+ │     └─[**..-] batch
+ ├─[-*.-*] lance
+ ├─[-*.-.] latch
+ ├─[-*..*] sauce
+ │  └─[.*.**] dance
+ │     └─[.*.**] farce
+ ├─[-*..-] facet
+ │  └─[.***.] racer
+ ├─[-*...] match
+ │  ├─[**.**] march
+ │  ├─[**.--] macho
+ │  ├─[**.-.] macro
+ │  │  ├─[***..] macaw
+ │  │  └─[**-..] manic
+ │  │     └─[**.**] magic
+ │  ├─[.****] patch
+ │  │  └─[.****] watch
+ │  │     └─[.****] hatch
+ │  ├─[.*---] yacht
+ │  ├─[.*--.] tacit
+ │  │  └─[***..] tacky
+ │  ├─[.*.**] ranch
+ │  ├─[.*.*.] saucy
+ │  │  └─[.*.**] fancy
+ │  ├─[.*.--] havoc
+ │  └─[.*.-.] panic
+ │     └─[.*..-] wacky
+ ├─[----.] black
+ ├─[---.*] brace
+ ├─[---.-] beach
+ ├─[---..] scuba
+ │  └─[.-.--] aback
+ ├─[--.**] scale
+ ├─[--.*.] scaly
+ │  └─[****.] scald
+ │     └─[****.] scalp
+ ├─[--.-*] place
+ ├─[--.--] decal
+ │  ├─[.****] fecal
+ │  ├─[.*---] leach
+ │  └─[.--*-] eclat
+ ├─[--.-.] focal
+ │  ├─[*.---] flack
+ │  ├─[.****] vocal
+ │  │  └─[.****] local
+ │  ├─[.--**] octal
+ │  ├─[..-*-] lilac
+ │  │  └─[---**] iliac
+ │  └─[..---] slack
+ ├─[--..*] trace
+ │  ├─[-.--*] acute
+ │  ├─[.****] grace
+ │  ├─[.-*-*] scare
+ │  └─[..***] space
+ │     └─[.-***] peace
+ ├─[--..-] react
+ │  ├─[****.] reach
+ │  ├─[**--.] recap
+ │  ├─[.***-] teach
+ │  ├─[.***.] peach
+ │  ├─[.*-*.] mecca
+ │  ├─[.*--.] pecan
+ │  │  └─[.***.] decay
+ │  ├─[.-***] enact
+ │  │  └─[*.***] exact
+ │  └─[.---.] ocean
+ ├─[--...] scant
+ │  ├─[***..] scary
+ │  │  ├─[****.] scarf
+ │  │  └─[***..] scamp
+ │  ├─[**-..] scrap
+ │  │  └─[****.] scram
+ │  ├─[*-*-.] snack
+ │  ├─[*-*.-] stack
+ │  ├─[*-*..] shack
+ │  │  └─[*.***] smack
+ │  ├─[*--..] sumac
+ │  ├─[---.*] ascot
+ │  ├─[.*--.] acorn
+ │  ├─[.*-.-] actor
+ │  ├─[.*-..] acrid
+ │  ├─[.-*-.] knack
+ │  ├─[.-*.*] tract
+ │  ├─[.-*.-] track
+ │  ├─[.-*..] roach
+ │  │  ├─[-.**.] wrack
+ │  │  ├─[..**-] whack
+ │  │  └─[..**.] quack
+ │  ├─[.----] antic
+ │  ├─[.--.-] attic
+ │  └─[.--..] vicar
+ │     └─[..*-.] mocha
+ ├─[-.*..] pubic
+ ├─[-.---] belch
+ ├─[-.--.] block
+ ├─[-.-.-] bench
+ │  ├─[**.**] beech
+ │  └─[*-.-.] bicep
+ ├─[-.-..] butch
+ │  ├─[**.**] bunch
+ │  ├─[*.***] botch
+ │  ├─[*..**] birch
+ │  ├─[*..*.] brick
+ │  └─[--.-.] scrub
+ ├─[-..**] uncle
+ ├─[-..*.] scold
+ │  └─[.*.*.] icily
+ ├─[-..-*] slice
+ ├─[-..--] elect
+ │  ├─[*---.] excel
+ │  ├─[-*--.] ulcer
+ │  ├─[--**.] leech
+ │  ├─[---*.] welch
+ │  ├─[----.] relic
+ │  └─[.***.] fleck
+ ├─[-..-.] lurch
+ │  ├─[**.**] lunch
+ │  ├─[**.-.] lucid
+ │  │  └─[***..] lucky
+ │  ├─[*-.-.] locus
+ │  ├─[*.*-.] lyric
+ │  ├─[*..**] lynch
+ │  ├─[*..-.] logic
+ │  ├─[-*.**] mulch
+ │  │  └─[.****] gulch
+ │  ├─[--.*.] pluck
+ │  ├─[-..*.] slick
+ │  │  ├─[.****] flick
+ │  │  └─[.*.**] flock
+ │  └─[-..-.] scowl
+ ├─[-...*] piece
+ │  ├─[*-.**] price
+ │  ├─[*.-**] pence
+ │  ├─[--.**] spice
+ │  ├─[-..-*] scope
+ │  ├─[.****] niece
+ │  ├─[.*.**] since
+ │  │  └─[.****] mince
+ │  │     └─[.****] wince
+ │  ├─[.*.-*] niche
+ │  ├─[.-.**] trice
+ │  │  ├─[*.***] twice
+ │  │  └─[..***] voice
+ │  │     └─[..***] juice
+ │  ├─[..*-*] scene
+ │  ├─[..-**] hence
+ │  │  ├─[.****] fence
+ │  │  └─[.*.**] deuce
+ │  ├─[..--*] scree
+ │  │  └─[.-.**] emcee
+ │  ├─[...**] force
+ │  │  ├─[.-.**] ounce
+ │  │  ├─[..-**] truce
+ │  │  └─[...**] dunce
+ │  └─[...-*] score
+ │     └─[***.*] scone
+ ├─[-...-] retch
+ │  ├─[**--.] recut
+ │  ├─[**.-.] recur
+ │  ├─[-*.**] perch
+ │  ├─[-*.*.] mercy
+ │  ├─[-*.-.] decor
+ │  │  └─[***.-] decry
+ │  ├─[---*.] erect
+ │  ├─[--.*.] wreck
+ │  ├─[--.-.] nicer
+ │  │  └─[..-*-] screw
+ │  ├─[.****] fetch
+ │  ├─[.*.**] wench
+ │  ├─[.*.-.] decoy
+ │  │  ├─[-*-..] medic
+ │  │  └─[.**-.] gecko
+ │  ├─[.-*-.] octet
+ │  ├─[.--*.] edict
+ │  │  ├─[*.***] evict
+ │  │  └─[*..**] eject
+ │  ├─[.----] ethic
+ │  ├─[.---.] scent
+ │  ├─[.-.**] epoch
+ │  ├─[.-.*.] speck
+ │  └─[.-.-.] dicey
+ ├─[-....] punch
+ │  ├─[*-.**] pouch
+ │  ├─[*.***] pinch
+ │  ├─[*..**] porch
+ │  │  ├─[**.**] pooch
+ │  │  └─[*..**] pitch
+ │  ├─[*..*.] prick
+ │  ├─[*..-.] picky
+ │  ├─[-..*.] spicy
+ │  ├─[-..-.] topic
+ │  │  ├─[---**] optic
+ │  │  └─[.--.-] scoop
+ │  ├─[.****] munch
+ │  │  └─[.****] hunch
+ │  ├─[.**-.] tunic
+ │  ├─[.*.**] dutch
+ │  │  └─[.****] hutch
+ │  ├─[.*.*.] juicy
+ │  │  └─[.***.] quick
+ │  ├─[.*.--] duchy
+ │  ├─[.*.-.] music
+ │  │  ├─[**-.-] mucus
+ │  │  └─[**..-] mucky
+ │  ├─[.--*.] snuck
+ │  ├─[.---.] incur
+ │  │  └─[.***.] uncut
+ │  ├─[.-.**] touch
+ │  │  └─[.****] vouch
+ │  ├─[.-.*-] shuck
+ │  ├─[.-.*.] truck
+ │  │  └─[-.***] stuck
+ │  ├─[.-.-.] scour
+ │  │  ├─[****.] scout
+ │  │  ├─[**.*-] scrum
+ │  │  ├─[---*.] focus
+ │  │  ├─[--.*.] ficus
+ │  │  └─[.*-**] occur
+ │  ├─[..***] finch
+ │  │  └─[.****] winch
+ │  ├─[..*-.] tonic
+ │  │  └─[.****] sonic
+ │  │     └─[.****] ionic
+ │  ├─[..-**] notch
+ │  ├─[..-*.] knock
+ │  ├─[..--.] scorn
+ │  │  ├─[**-.*] scion
+ │  │  └─[.*..-] icing
+ │  ├─[...**] which
+ │  │  ├─[*.-**] witch
+ │  │  ├─[.--**] hitch
+ │  │  ├─[..-**] ditch
+ │  │  └─[...**] torch
+ │  ├─[...*-] thick
+ │  │  └─[.*.**] shock
+ │  ├─[...*.] trick
+ │  │  ├─[-.***] stick
+ │  │  ├─[-..**] stock
+ │  │  ├─[.*.**] frock
+ │  │  ├─[..-*.] disco
+ │  │  └─[...**] smock
+ │  ├─[...--] itchy
+ │  └─[...-.] stoic
+ │     ├─[*.*.-] scoff
+ │     ├─[.--**] toxic
+ │     ├─[..---] micro
+ │     ├─[..-.-] rocky
+ │     └─[...**] mimic
+ ├─[.****] table
+ │  └─[.****] fable
+ ├─[.**--] label
+ ├─[.**-.] labor
+ ├─[.**..] rabbi
+ │  ├─[***.-] rabid
+ │  ├─[.***.] tabby
+ │  ├─[.**.-] habit
+ │  └─[.**..] taboo
+ ├─[.*-*.] badly
+ ├─[.*---] baler
+ │  └─[**-*.] bagel
+ ├─[.*--.] basil
+ │  ├─[***.*] basal
+ │  ├─[**..*] banal
+ │  └─[**..-] balmy
+ ├─[.*-.*] baste
+ │  ├─[**.-*] bathe
+ │  ├─[**..*] barge
+ │  │  └─[**.**] badge
+ │  └─[-*..*] maybe
+ ├─[.*-.-] baker
+ ├─[.*-..] baton
+ │  ├─[***..] batty
+ │  ├─[**.**] baron
+ │  ├─[**.*.] bayou
+ │  ├─[**.--] banjo
+ │  ├─[**..*] basin
+ │  ├─[**...] bawdy
+ │  │  ├─[**..*] baggy
+ │  │  └─[**...] basis
+ │  └─[-*.-.] mambo
+ ├─[.*.**] maple
+ │  └─[.*.**] ladle
+ │     └─[.*.**] eagle
+ ├─[.*.*-] early
+ ├─[.*.*.] dally
+ │  ├─[**.**] daily
+ │  ├─[-*.**] sadly
+ │  │  └─[.****] madly
+ │  ├─[.****] sally
+ │  │  └─[.****] rally
+ │  │     └─[.****] tally
+ │  ├─[.*.**] gaily
+ │  │  ├─[**.**] gayly
+ │  │  └─[.*.**] manly
+ │  └─[.*.*.] fault
+ │     └─[.****] vault
+ ├─[.*.-*] halve
+ │  ├─[-*-.*] lathe
+ │  ├─[.****] salve
+ │  │  └─[.****] valve
+ │  ├─[.**-*] value
+ │  ├─[.**.*] false
+ │  └─[.*-.*] large
+ │     └─[**..*] lapse
+ │        └─[**..*] latte
+ ├─[.*.--] panel
+ │  ├─[**.*-] paler
+ │  ├─[-*.**] lapel
+ │  ├─[.*-**] navel
+ │  ├─[.*-*-] laden
+ │  ├─[.*.**] easel
+ │  │  └─[.*.**] gavel
+ │  │     └─[.*.**] hazel
+ │  └─[.*.*-] later
+ │     ├─[**.**] layer
+ │     │  └─[**.**] lager
+ │     └─[-*-*.] valet
+ ├─[.*.-.] salvo
+ │  ├─[***.-] salon
+ │  ├─[***..] salad
+ │  │  ├─[***-.] salsa
+ │  │  └─[***..] salty
+ │  ├─[-**..] palsy
+ │  ├─[-*-.*] lasso
+ │  ├─[-*-..] nasal
+ │  ├─[.**--] valor
+ │  ├─[.**-.] valid
+ │  ├─[.**.-] talon
+ │  ├─[.**..] ralph
+ │  │  └─[.**..] waltz
+ │  ├─[.*-*.] larva
+ │  ├─[.*--.] naval
+ │  └─[.*-..] natal
+ │     ├─[-*..-] lanky
+ │     ├─[.****] fatal
+ │     ├─[.*.**] papal
+ │     └─[.*..-] laugh
+ ├─[.*..*] pause
+ │  ├─[**.**] parse
+ │  ├─[**.-*] paste
+ │  ├─[**..*] payee
+ │  ├─[.**-*] saute
+ │  ├─[.**.*] gauze
+ │  │  ├─[***.*] gauge
+ │  │  └─[.**.*] haute
+ │  │     └─[.**.*] mauve
+ │  ├─[.*-.*] vague
+ │  ├─[.*.**] raise
+ │  │  └─[.*.**] masse
+ │  ├─[.*.-*] haste
+ │  │  └─[.****] waste
+ │  │     └─[.****] taste
+ │  └─[.*..*] mange
+ │     ├─[**..*] maize
+ │     ├─[.****] range
+ │     ├─[.*-.*] naive
+ │     ├─[.*.-*] gaffe
+ │     └─[.*..*] waive
+ ├─[.*..-] taper
+ │  ├─[**.**] tamer
+ │  │  └─[**.**] taker
+ │  ├─[**.*.] taken
+ │  ├─[-*.**] hater
+ │  │  └─[.****] water
+ │  │     └─[.****] eater
+ │  ├─[-*.*.] matey
+ │  │  └─[.***.] eaten
+ │  ├─[-*.--] earth
+ │  ├─[.****] paper
+ │  ├─[.*-**] payer
+ │  │  └─[**.**] parer
+ │  ├─[.*.**] gamer
+ │  │  ├─[**.**] gayer
+ │  │  │  └─[**.**] gazer
+ │  │  ├─[-*.**] wager
+ │  │  │  └─[.****] eager
+ │  │  ├─[.*-**] maker
+ │  │  └─[.*.**] safer
+ │  │     ├─[**.**] saner
+ │  │     ├─[.****] wafer
+ │  │     └─[.*.**] waver
+ │  │        └─[.*.**] rarer
+ │  ├─[.*.*-] ramen
+ │  │  ├─[**.**] raven
+ │  │  └─[-*-*.] harem
+ │  └─[.*.*.] oaken
+ │     └─[.*.**] haven
+ │        └─[.*.**] waxen
+ ├─[.*...] vapid
+ │  ├─[***..] vapor
+ │  ├─[**...] vaunt
+ │  ├─[-*...] savor
+ │  │  ├─[****.] savoy
+ │  │  ├─[***..] savvy
+ │  │  └─[.****] favor
+ │  ├─[.****] rapid
+ │  ├─[.***.] tapir
+ │  ├─[.**..] sappy
+ │  │  ├─[.****] happy
+ │  │  └─[.***.] kappa
+ │  ├─[.*-*.] patio
+ │  ├─[.*--.] paint
+ │  ├─[.*-.-] paddy
+ │  ├─[.*-..] party
+ │  │  ├─[***.*] parry
+ │  │  ├─[***..] parka
+ │  │  ├─[**.**] pasty
+ │  │  │  └─[**.**] patty
+ │  │  ├─[**.*.] pasta
+ │  │  ├─[**.-*] patsy
+ │  │  ├─[**..*] pansy
+ │  │  ├─[**...] pagan
+ │  │  ├─[-**.*] harpy
+ │  │  └─[-*-.*] raspy
+ │  ├─[.*.*-] radio
+ │  │  ├─[****.] radii
+ │  │  └─[-***.] nadir
+ │  ├─[.*.*.] mania
+ │  │  ├─[**.**] mafia
+ │  │  ├─[**.*.] maxim
+ │  │  ├─[.*-*.] satin
+ │  │  └─[.*.*.] ratio
+ │  ├─[.*.--] dairy
+ │  │  └─[***.*] daisy
+ │  ├─[.*.-.] faint
+ │  │  ├─[***.-] faith
+ │  │  ├─[***..] fairy
+ │  │  ├─[.****] saint
+ │  │  │  └─[.****] taint
+ │  │  ├─[.***.] rainy
+ │  │  ├─[.**.*] waist
+ │  │  └─[.**..] hairy
+ │  ├─[.*..-] hardy
+ │  │  ├─[**.**] handy
+ │  │  ├─[.****] tardy
+ │  │  ├─[.*-**] randy
+ │  │  ├─[.*--.] radar
+ │  │  ├─[.*.**] dandy
+ │  │  │  ├─[**.**] daddy
+ │  │  │  ├─[.****] sandy
+ │  │  │  └─[.*.**] gaudy
+ │  │  └─[.*.-.] daunt
+ │  │     ├─[**-.-] datum
+ │  │     └─[-*...] madam
+ │  └─[.*...] tangy
+ │     ├─[****.] tango
+ │     ├─[**-.*] tawny
+ │     ├─[**-..] taunt
+ │     ├─[**..*] tasty
+ │     │  ├─[**.**] tatty
+ │     │  └─[**..*] taffy
+ │     ├─[**...] tarot
+ │     ├─[-*--.] gaunt
+ │     ├─[-*-.*] nasty
+ │     ├─[-*-..] haunt
+ │     │  └─[.****] jaunt
+ │     ├─[-*.-.] gamut
+ │     ├─[-*..*] ratty
+ │     │  ├─[-*.**] warty
+ │     │  ├─[.****] fatty
+ │     │  └─[.*.**] hasty
+ │     ├─[-*..-] satyr
+ │     ├─[.****] mangy
+ │     ├─[.***.] mango
+ │     │  └─[****.] manga
+ │     ├─[.**.*] fanny
+ │     │  └─[.****] nanny
+ │     ├─[.**..] manor
+ │     ├─[.*--.] wagon
+ │     ├─[.*-.-] rayon
+ │     ├─[.*-..] mason
+ │     │  ├─[.*-.-] sauna
+ │     │  └─[.*..-] fauna
+ │     ├─[.*.-*] gassy
+ │     │  └─[**..*] gawky
+ │     ├─[.*.-.] gamma
+ │     │  └─[-*-**] magma
+ │     ├─[.*..*] marry
+ │     │  ├─[**..*] mammy
+ │     │  ├─[.****] harry
+ │     │  └─[.*..*] sassy
+ │     │     └─[.*..*] jazzy
+ │     ├─[.*..-] mayor
+ │     │  └─[.**..] kayak
+ │     └─[.*...] marsh
+ │        ├─[**-..] major
+ │        ├─[**...] mamma
+ │        ├─[-**..] karma
+ │        ├─[.****] harsh
+ │        ├─[.*-.*] rajah
+ │        └─[.*-..] razor
+ ├─[.-***] amble
+ ├─[.-*-.] tubal
+ │  └─[.-*--] album
+ ├─[.-*.-] debar
+ │  ├─[.****] rebar
+ │  ├─[.***.] kebab
+ │  ├─[.**--] zebra
+ │  ├─[.-*-*] amber
+ │  └─[.-*-.] abbey
+ ├─[.-*..] arbor
+ │  ├─[*.**.] abbot
+ │  ├─[-**..] urban
+ │  ├─[--*.-] umbra
+ │  └─[-.*..] tibia
+ ├─[.---*] blare
+ │  └─[***.*] blade
+ │     └─[***.*] blame
+ │        └─[***.*] blaze
+ ├─[.----] bleat
+ │  ├─[****.] bleak
+ │  └─[----.] abled
+ ├─[.---.] bland
+ │  ├─[****.] blank
+ │  ├─[***..] blast
+ │  ├─[**-..] bloat
+ │  ├─[*-*..] brawl
+ │  ├─[*--..] bylaw
+ │  └─[-*-..] alibi
+ ├─[.--.*] abode
+ │  ├─[***.*] above
+ │  ├─[**.**] abide
+ │  ├─[**..*] abuse
+ │  │  ├─[**.**] abase
+ │  │  └─[**..*] abate
+ │  ├─[*-*-*] adobe
+ │  └─[--..*] brake
+ │     └─[***.*] brave
+ ├─[.--.-] beard
+ │  ├─[***.-] beady
+ │  ├─[***..] beast
+ │  ├─[**-..] begat
+ │  │  └─[****.] began
+ │  ├─[*---*] bread
+ │  ├─[*---.] break
+ │  └─[-*--.] rehab
+ ├─[.--..] board
+ │  ├─[***..] boast
+ │  ├─[**--.] borax
+ │  ├─[*-*-.] bravo
+ │  ├─[*---*] broad
+ │  ├─[*.*-*] braid
+ │  │  └─[***.*] brand
+ │  ├─[*.*-.] brain
+ │  │  ├─[***.*] brawn
+ │  │  └─[***..] brash
+ │  │     └─[****.] brass
+ │  ├─[*.--.] briar
+ │  ├─[---*.] abort
+ │  ├─[----.] abhor
+ │  ├─[---..] about
+ │  ├─[-.--.] rumba
+ │  └─[-.-..] abyss
+ ├─[.-.**] agile
+ │  ├─[*-.**] angle
+ │  ├─[*.-**] aisle
+ │  ├─[*..**] ample
+ │  │  ├─[*.***] apple
+ │  │  └─[*..**] ankle
+ │  └─[-..**] stale
+ │     ├─[*.***] shale
+ │     └─[..***] whale
+ ├─[.-.*-] realm
+ │  ├─[.***-] mealy
+ │  ├─[.***.] dealt
+ │  ├─[.*-*.] fella
+ │  └─[.-**.] exalt
+ ├─[.-.*.] atoll
+ │  ├─[*-.*.] adult
+ │  │  └─[*..*-] aptly
+ │  ├─[*..*.] amply
+ │  │  └─[*.***] apply
+ │  ├─[-*.**] stall
+ │  ├─[-*.*.] stalk
+ │  ├─[--.*.] shalt
+ │  ├─[-.**.] viola
+ │  ├─[-.-*.] voila
+ │  │  └─[.*.**] koala
+ │  ├─[-..**] shall
+ │  │  └─[*.***] small
+ │  ├─[-..*-] villa
+ │  └─[-..*.] psalm
+ │     └─[..***] qualm
+ ├─[.-.-*] glare
+ │  ├─[***.*] glade
+ │  │  └─[***.*] glaze
+ │  ├─[-*-.*] algae
+ │  ├─[.****] flare
+ │  ├─[.**.*] slate
+ │  │  ├─[***.*] slave
+ │  │  ├─[.****] plate
+ │  │  │  └─[.****] elate
+ │  │  └─[.**.*] flame
+ │  │     ├─[***.*] flake
+ │  │     └─[.**.*] plane
+ │  ├─[.*-.*] alike
+ │  │  ├─[***.*] alive
+ │  │  └─[**..*] alone
+ │  └─[.-*.*] lease
+ │     └─[***.*] leave
+ ├─[.-.--] petal
+ │  ├─[**.**] penal
+ │  │  └─[**.**] pedal
+ │  ├─[**.-*] pearl
+ │  ├─[*--*-] pleat
+ │  ├─[*-.*-] plead
+ │  ├─[-*---] leapt
+ │  ├─[.****] metal
+ │  │  └─[.****] fetal
+ │  ├─[.*---] least
+ │  │  ├─[***.*] leant
+ │  │  └─[-*-.-] delta
+ │  ├─[.*.**] regal
+ │  │  ├─[**.**] renal
+ │  │  ├─[-*.**] feral
+ │  │  ├─[.****] legal
+ │  │  └─[.*.**] medal
+ │  ├─[.*.*-] relay
+ │  │  ├─[****.] relax
+ │  │  └─[.****] delay
+ │  ├─[.*.--] leafy
+ │  │  ├─[***.*] leaky
+ │  │  └─[***..] learn
+ │  │     └─[***..] leash
+ │  ├─[.-*--] alter
+ │  ├─[.--**] steal
+ │  ├─[.----] alert
+ │  ├─[.-.**] ideal
+ │  │  └─[..-**] equal
+ │  ├─[.-.*-] glean
+ │  │  └─[****.] gleam
+ │  ├─[.-.-*] angel
+ │  │  └─[-..-*] email
+ │  └─[.-.--] alien
+ │     └─[**.*.] alley
+ ├─[.-.-.] tonal
+ │  ├─[**.**] total
+ │  ├─[*..**] trial
+ │  │  └─[*.-**] tidal
+ │  ├─[*..-*] trail
+ │  │  └─[***.*] trawl
+ │  ├─[-*.--] loath
+ │  ├─[--.*-] gloat
+ │  │  └─[.****] float
+ │  ├─[--.--] aloft
+ │  │  └─[**-.*] allot
+ │  ├─[-.---] slant
+ │  │  └─[.****] plant
+ │  ├─[-..**] vital
+ │  ├─[-..*-] splat
+ │  │  └─[..-*-] altar
+ │  ├─[-..--] plait
+ │  │  └─[.*-.-] ultra
+ │  ├─[.****] zonal
+ │  ├─[.*.**] moral
+ │  │  ├─[**.**] modal
+ │  │  ├─[.*-**] royal
+ │  │  └─[.*.**] loyal
+ │  ├─[.*.*-] solar
+ │  │  └─[.****] polar
+ │  │     └─[.****] molar
+ │  ├─[.*.--] loamy
+ │  │  └─[-*-..] polka
+ │  ├─[.----] along
+ │  ├─[.-.**] shoal
+ │  │  └─[..-**] offal
+ │  ├─[.-.-*] afoul
+ │  ├─[.-.--] alloy
+ │  │  ├─[****.] allow
+ │  │  ├─[**.*.] aloof
+ │  │  ├─[**.-.] aloud
+ │  │  ├─[*.**.] aglow
+ │  │  └─[-*.-.] flora
+ │  ├─[..***] final
+ │  ├─[..**-] lunar
+ │  ├─[..*-*] annul
+ │  ├─[..-*-] inlay
+ │  ├─[..--*] snarl
+ │  │  ├─[***.*] snail
+ │  │  └─[.*-.*] anvil
+ │  ├─[..---] slang
+ │  │  ├─[***-.] slain
+ │  │  ├─[.***-] gland
+ │  │  ├─[.***.] plank
+ │  │  │  └─[.****] flank
+ │  │  ├─[.**-.] plain
+ │  │  └─[.*---] align
+ │  ├─[...**] mural
+ │  │  ├─[.****] rural
+ │  │  ├─[.*.**] pupal
+ │  │  ├─[.-.**] usual
+ │  │  ├─[..***] viral
+ │  │  ├─[..-**] rival
+ │  │  └─[...**] axial
+ │  ├─[...*-] allay
+ │  ├─[...-*] frail
+ │  │  ├─[*.***] flail
+ │  │  ├─[-.-.*] awful
+ │  │  ├─[.****] grail
+ │  │  ├─[.**.*] drawl
+ │  │  ├─[..***] quail
+ │  │  │  └─[..***] avail
+ │  │  └─[..*.*] shawl
+ │  └─[...--] flash
+ │     ├─[****.] flask
+ │     ├─[***..] flair
+ │     │  └─[***..] flaky
+ │     ├─[.****] slash
+ │     ├─[.***.] glass
+ │     ├─[.**..] alarm
+ │     │  ├─[-**.-] llama
+ │     │  ├─[-**..] plaza
+ │     │  └─[.**..] plaid
+ │     └─[.*-.-] alpha
+ ├─[.-..*] trade
+ │  ├─[*.*.*] tease
+ │  ├─[-**.*] irate
+ │  │  └─[.****] grate
+ │  ├─[--*.*] stare
+ │  ├─[-.*.*] skate
+ │  │  ├─[*-*-*] stake
+ │  │  ├─[*.***] state
+ │  │  ├─[*.*-*] stage
+ │  │  │  └─[***.*] stave
+ │  │  └─[..***] ovate
+ │  │     └─[..***] agate
+ │  ├─[-.-.*] atone
+ │  ├─[.****] grade
+ │  ├─[.**-*] drape
+ │  │  └─[***.*] drake
+ │  ├─[.**.*] grape
+ │  │  ├─[***.*] grave
+ │  │  │  └─[***.*] graze
+ │  │  └─[.**.*] erase
+ │  │     └─[.**.*] frame
+ │  ├─[.*-.*] arise
+ │  │  ├─[**.**] arose
+ │  │  └─[**..*] argue
+ │  ├─[.-*.*] snare
+ │  │  ├─[*.***] share
+ │  │  │  └─[*.***] spare
+ │  │  └─[..***] aware
+ │  ├─[.---*] adore
+ │  ├─[.--.*] afire
+ │  │  ├─[*..**] azure
+ │  │  └─[*..-*] agree
+ │  ├─[..***] shade
+ │  │  ├─[*.***] spade
+ │  │  └─[..***] evade
+ │  ├─[..*-*] adage
+ │  ├─[..*.*] knave
+ │  │  ├─[-**.*] snake
+ │  │  ├─[-.*.*] shake
+ │  │  │  └─[..***] quake
+ │  │  │     └─[..***] awake
+ │  │  ├─[.**.*] inane
+ │  │  ├─[..***] shave
+ │  │  │  ├─[*.***] suave
+ │  │  │  ├─[.-***] heave
+ │  │  │  └─[..***] weave
+ │  │  └─[..*.*] phase
+ │  │     ├─[-**-*] shape
+ │  │     ├─[-.*.*] agape
+ │  │     ├─[.**-*] shame
+ │  │     ├─[..*-*] usage
+ │  │     └─[..*.*] image
+ │  │        └─[.**.*] amaze
+ │  ├─[..-**] anode
+ │  │  └─[*..**] aside
+ │  └─[..-.*] anime
+ │     ├─[*..-*] amuse
+ │     └─[*...*] awoke
+ ├─[.-..-] dream
+ │  ├─[****.] dread
+ │  ├─[*.--.] death
+ │  ├─[-***.] tread
+ │  ├─[----.] heard
+ │  │  ├─[.**--] ready
+ │  │  └─[.----] aider
+ │  ├─[-.**.] stead
+ │  │  └─[..***] knead
+ │  │     └─[..***] ahead
+ │  ├─[-.*--] amend
+ │  ├─[-.*-.] adept
+ │  ├─[-.-*.] sedan
+ │  ├─[-.---] media
+ │  ├─[-.--.] heady
+ │  ├─[.***.] great
+ │  │  ├─[.****] treat
+ │  │  └─[.***.] freak
+ │  │     └─[.****] wreak
+ │  ├─[.**-.] arena
+ │  ├─[.-**-] smear
+ │  ├─[.-**.] shear
+ │  │  └─[*.***] spear
+ │  │     └─[*.***] swear
+ │  ├─[.-*-.] avert
+ │  │  └─[-.**.] opera
+ │  ├─[.--*.] repay
+ │  ├─[.---*] rearm
+ │  ├─[.---.] teary
+ │  │  ├─[**-*.] terra
+ │  │  ├─[-***.] heart
+ │  │  ├─[---*.] extra
+ │  │  ├─[----.] after
+ │  │  ├─[.****] weary
+ │  │  ├─[.***-] yearn
+ │  │  └─[.---.] anger
+ │  ├─[..***] steam
+ │  ├─[..**.] sweat
+ │  │  ├─[*.**-] steak
+ │  │  ├─[*.**.] sneak
+ │  │  │  └─[*.***] speak
+ │  │  ├─[.***-] tweak
+ │  │  └─[.-***] wheat
+ │  ├─[..*--] omega
+ │  │  └─[.-*.*] enema
+ │  ├─[..*-.] agent
+ │  │  ├─[-.**.] hyena
+ │  │  └─[-.*.-] theta
+ │  ├─[..-*.] vegan
+ │  │  └─[.-.*.] essay
+ │  ├─[..---] meant
+ │  │  └─[***.-] meaty
+ │  └─[..--.] yeast
+ │     ├─[-**..] heavy
+ │     ├─[.****] feast
+ │     ├─[.**.-] heath
+ │     ├─[.*--.] sepia
+ │     ├─[.---*] asset
+ │     ├─[.---.] ashen
+ │     │  └─[**.*.] askew
+ │     └─[.--..] apnea
+ │        └─[*.**.] annex
+ ├─[.-...] train
+ │  ├─[****.] trait
+ │  ├─[***..] trash
+ │  │  └─[***..] tramp
+ │  ├─[**--.] triad
+ │  ├─[*-*-.] tiara
+ │  ├─[*.*.-] thank
+ │  │  └─[*.**.] twang
+ │  ├─[*.*..] toast
+ │  ├─[*.--*] titan
+ │  ├─[*.-.-] tonga
+ │  ├─[*.-..] today
+ │  │  └─[**.*.] topaz
+ │  ├─[-**.-] grant
+ │  ├─[-**..] draft
+ │  │  ├─[.****] graft
+ │  │  └─[.**.-] wrath
+ │  ├─[-*-..] artsy
+ │  ├─[--**.] stair
+ │  ├─[--*..] smart
+ │  │  ├─[*.***] start
+ │  │  ├─[*.**-] stark
+ │  │  ├─[-.*-*] roast
+ │  │  └─[..***] apart
+ │  │     └─[..***] quart
+ │  ├─[---..] stray
+ │  │  ├─[****.] strap
+ │  │  │  └─[****.] straw
+ │  │  └─[.-*-.] aorta
+ │  ├─[-.***] stain
+ │  ├─[-.**.] staid
+ │  │  └─[.-**.] await
+ │  ├─[-.*--] giant
+ │  ├─[-.*.-] stand
+ │  │  └─[****.] stank
+ │  ├─[-.*..] shaft
+ │  │  ├─[*-*.-] swath
+ │  │  │  └─[*.*-*] stash
+ │  │  ├─[*.**-] staff
+ │  │  ├─[*.*.-] stamp
+ │  │  └─[..*.*] adapt
+ │  ├─[-.-*.] audit
+ │  │  └─[*.-**] admit
+ │  ├─[-.--.] amity
+ │  │  └─[-.-*.] vista
+ │  ├─[-.-.-] angst
+ │  │  ├─[*-..-] aunty
+ │  │  └─[--..-] junta
+ │  ├─[-.-..] adopt
+ │  │  ├─[*.*.*] afoot
+ │  │  ├─[-.*.-] quota
+ │  │  └─[-...*] squat
+ │  ├─[.****] drain
+ │  │  └─[.****] grain
+ │  ├─[.**.*] drawn
+ │  │  └─[.****] prawn
+ │  ├─[.**.-] grand
+ │  │  ├─[.***-] drank
+ │  │  └─[.***.] prank
+ │  │     └─[.****] frank
+ │  ├─[.**..] grasp
+ │  │  ├─[****.] grass
+ │  │  ├─[***.-] graph
+ │  │  ├─[***..] gravy
+ │  │  └─[.**..] fraud
+ │  │     └─[.**.-] drama
+ │  ├─[.*--.] friar
+ │  ├─[.*-.*] groan
+ │  │  ├─[-*-**] organ
+ │  │  └─[.*--*] arson
+ │  ├─[.*-..] ardor
+ │  │  ├─[**.**] armor
+ │  │  ├─[**.*-] arrow
+ │  │  ├─[**.-.] aroma
+ │  │  └─[**..-] array
+ │  ├─[.-*-.] diary
+ │  ├─[.-*..] shard
+ │  │  ├─[****.] sharp
+ │  │  │  └─[****.] shark
+ │  │  ├─[*.**.] spark
+ │  │  │  └─[*.**.] swarm
+ │  │  ├─[.***.] wharf
+ │  │  ├─[.-***] hoard
+ │  │  ├─[..***] guard
+ │  │  │  └─[..***] award
+ │  │  ├─[..**-] dwarf
+ │  │  └─[..**.] ovary
+ │  │     └─[..**.] quark
+ │  ├─[.--.*] adorn
+ │  │  └─[*.--*] apron
+ │  ├─[.--.-] sonar
+ │  │  └─[..---] angry
+ │  ├─[.--..] sugar
+ │  │  ├─[*..*-] spray
+ │  │  ├─[.**-*] augur
+ │  │  ├─[..---] agora
+ │  │  └─[...*-] foray
+ │  ├─[..***] again
+ │  ├─[..*--] piano
+ │  ├─[..*-.] swami
+ │  │  ├─[-.*.*] quasi
+ │  │  └─[..*.*] khaki
+ │  ├─[..*.*] spawn
+ │  ├─[..*.-] gnash
+ │  │  ├─[.**-.] snaky
+ │  │  ├─[.-*--] shank
+ │  │  └─[.-*-.] spank
+ │  ├─[..*..] swamp
+ │  │  ├─[***..] swash
+ │  │  ├─[*.*--] spasm
+ │  │  ├─[*.*-.] smash
+ │  │  ├─[*.*.-] soapy
+ │  │  ├─[*.*..] shady
+ │  │  │  └─[***.*] shaky
+ │  │  ├─[-**..] awash
+ │  │  ├─[-.*-.] amass
+ │  │  ├─[-.*..] quash
+ │  │  ├─[..**.] foamy
+ │  │  └─[..*..] guava
+ │  ├─[..-**] admin
+ │  ├─[..-*.] audio
+ │  │  ├─[*.-*-] avoid
+ │  │  ├─[*.-*.] aphid
+ │  │  └─[*..*.] affix
+ │  ├─[..--*] axion
+ │  │  └─[*.*.*] avian
+ │  ├─[..---] aping
+ │  │  ├─[*.***] aging
+ │  │  └─[-.--.] ninja
+ │  ├─[..--.] sigma
+ │  │  ├─[--.--] amiss
+ │  │  ├─[.*..*] pizza
+ │  │  └─[.-.--] axiom
+ │  ├─[..-.*] human
+ │  │  └─[..***] woman
+ │  ├─[..-.-] agony
+ │  │  ├─[*-**.] among
+ │  │  ├─[*.--*] annoy
+ │  │  ├─[----.] gonad
+ │  │  └─[-.--.] nomad
+ │  └─[..-..] dogma
+ │     ├─[-*..*] vodka
+ │     ├─[-...-] squad
+ │     └─[....-] assay
+ ├─[..***] noble
+ │  └─[..***] bible
+ ├─[..**.] nobly
+ ├─[..*--] rebel
+ │  ├─[.-*.-] elbow
+ │  └─[..***] libel
+ ├─[..*-.] lobby
+ ├─[..*.*] fibre
+ │  ├─[.-*.*] imbue
+ │  └─[..***] ombre
+ ├─[..*.-] debit
+ │  ├─[***.*] debut
+ │  ├─[***..] debug
+ │  ├─[--*..] embed
+ │  ├─[.**.*] rebut
+ │  ├─[.**..] rebus
+ │  ├─[.-*-.] fiber
+ │  ├─[.-*.-] tuber
+ │  └─[.-*..] sober
+ │     └─[..***] ember
+ ├─[..*..] orbit
+ │  ├─[--**.] robin
+ │  ├─[--*.*] robot
+ │  ├─[-.*-.] inbox
+ │  └─[-.*..] hobby
+ │     └─[.****] bobby
+ ├─[..-**] boule
+ │  ├─[*.-**] bugle
+ │  └─[*..**] belle
+ ├─[..-*-] belly
+ ├─[..-*.] built
+ │  ├─[****.] build
+ │  ├─[**.*.] burly
+ │  │  └─[**.**] bully
+ │  └─[*.-*.] billy
+ ├─[..--*] bilge
+ │  ├─[*-*.*] belie
+ │  ├─[*.***] bulge
+ │  ├─[*.-.*] bloke
+ │  └─[-.--*] globe
+ ├─[..---] bleed
+ │  ├─[****.] bleep
+ │  ├─[***.*] blend
+ │  ├─[***..] bless
+ │  ├─[**.*.] bluer
+ │  ├─[*--*.] betel
+ │  │  └─[**.**] bevel
+ │  │     └─[**.**] bezel
+ │  ├─[*--..] below
+ │  └─[*-.*.] bowel
+ ├─[..--.] blind
+ │  ├─[****.] blink
+ │  ├─[***..] blimp
+ │  │  └─[***..] blitz
+ │  │     └─[***..] bliss
+ │  ├─[**.**] blond
+ │  ├─[**.*.] blunt
+ │  ├─[**.-.] blown
+ │  ├─[**..*] blood
+ │  ├─[**...] blurt
+ │  │  ├─[****.] blurb
+ │  │  ├─[***..] blush
+ │  │  │  └─[***..] bluff
+ │  │  └─[**...] bloom
+ │  ├─[*--..] broil
+ │  ├─[*-...] bulky
+ │  ├─[-*...] plumb
+ │  └─[---..] limbo
+ ├─[..-.*] borne
+ │  ├─[**..*] booze
+ │  ├─[*--.*] broke
+ │  ├─[*-..*] biome
+ │  ├─[*.-**] brine
+ │  ├─[*.-.*] bride
+ │  │  ├─[***.*] bribe
+ │  │  └─[**..*] brute
+ │  ├─[*..-*] binge
+ │  ├─[*...*] butte
+ │  │  └─[**..*] budge
+ │  ├─[---.*] probe
+ │  ├─[--..*] obese
+ │  └─[-.-.*] tribe
+ ├─[..-.-] buyer
+ │  ├─[**.*.] bused
+ │  ├─[*-.-.] begun
+ │  ├─[*.-*.] boney
+ │  ├─[*.---] berry
+ │  ├─[*.--.] beefy
+ │  ├─[*..**] boxer
+ │  ├─[*..*-] beret
+ │  │  ├─[*--*.] breed
+ │  │  └─[*.-*.] brief
+ │  ├─[*..*.] beset
+ │  │  └─[**.**] beget
+ │  ├─[*..--] berth
+ │  ├─[*..-.] befit
+ │  │  ├─[**.*.] begin
+ │  │  └─[**.-.] being
+ │  ├─[-.---] derby
+ │  └─[-.--.] ebony
+ ├─[..-..] boost
+ │  ├─[***.-] booth
+ │  │  └─[****.] booty
+ │  ├─[***..] boozy
+ │  │  └─[***.*] booby
+ │  ├─[**--.] bosom
+ │  ├─[**-..] bongo
+ │  ├─[**.*.] bossy
+ │  ├─[**.-.] bonus
+ │  ├─[**...] bound
+ │  │  └─[***..] bough
+ │  ├─[*-*..] brood
+ │  │  └─[****.] broom
+ │  │     └─[****.] brook
+ │  ├─[*---.] bison
+ │  ├─[*--.*] bigot
+ │  ├─[*--..] bingo
+ │  │  └─[*...-] buxom
+ │  ├─[*.*.-] broth
+ │  ├─[*.*..] brown
+ │  ├─[*..**] burst
+ │  ├─[*..*.] brush
+ │  │  └─[**.*.] brisk
+ │  ├─[*..-.] bushy
+ │  ├─[*...*] brunt
+ │  │  └─[*--**] burnt
+ │  ├─[*...-] birth
+ │  │  └─[**.*.] bitty
+ │  ├─[*....] bring
+ │  │  ├─[****.] briny
+ │  │  │  └─[****.] brink
+ │  │  ├─[*.-..] biddy
+ │  │  ├─[*..*.] bunny
+ │  │  ├─[*...-] buggy
+ │  │  └─[*....] buddy
+ │  ├─[-*..*] doubt
+ │  ├─[---.-] turbo
+ │  │  └─[*.*--] throb
+ │  ├─[---..] gumbo
+ │  │  └─[.****] jumbo
+ │  ├─[-..-.] shrub
+ │  │  └─[*..-*] squib
+ │  ├─[-...-] thumb
+ │  └─[-....] rugby
+ ├─[...**] utile
+ │  ├─[--.**] tulle
+ │  ├─[-.***] guile
+ │  ├─[.*.**] stole
+ │  │  └─[**.**] style
+ │  ├─[.--**] title
+ │  ├─[..***] smile
+ │  │  └─[..***] while
+ │  │     └─[..***] exile
+ │  ├─[..-**] rifle
+ │  └─[...**] whole
+ ├─[...*-] swell
+ │  ├─[*.***] shell
+ │  │  └─[*.***] spell
+ │  │     └─[*.***] smell
+ │  ├─[*.**.] spelt
+ │  │  ├─[*.***] smelt
+ │  │  └─[*.**.] shelf
+ │  ├─[.****] dwell
+ │  ├─[.***.] dwelt
+ │  ├─[.-**.] wield
+ │  │  └─[*.**.] whelp
+ │  ├─[.--*.] newly
+ │  ├─[..***] quell
+ │  ├─[..**.] yield
+ │  │  ├─[.****] field
+ │  │  └─[..**.] knelt
+ │  ├─[..-*-] hello
+ │  │  └─[.***.] jelly
+ │  └─[..-*.] reply
+ │     └─[.-.*.] exult
+ ├─[...*.] godly
+ │  ├─[**.**] golly
+ │  ├─[*.-*.] guild
+ │  ├─[*..**] girly
+ │  │  └─[*..**] gully
+ │  ├─[*..*.] guilt
+ │  │  └─[*.**.] grill
+ │  ├─[.*-**] dolly
+ │  ├─[.*-*.] world
+ │  │  └─[**.**] would
+ │  ├─[.*.**] holly
+ │  │  ├─[**.**] hotly
+ │  │  ├─[.****] folly
+ │  │  │  └─[.****] jolly
+ │  │  ├─[.*-**] lowly
+ │  │  └─[.*.**] wooly
+ │  ├─[.*.*.] moult
+ │  ├─[.-***] oddly
+ │  ├─[.--*.] droll
+ │  ├─[.-.*.] troll
+ │  │  └─[..***] knoll
+ │  ├─[..-**] dilly
+ │  │  ├─[**.**] dimly
+ │  │  ├─[*.***] dully
+ │  │  └─[*..**] dryly
+ │  ├─[..-*-] idyll
+ │  ├─[..-*.] drill
+ │  ├─[...**] shyly
+ │  │  ├─[*.***] slyly
+ │  │  ├─[*..**] surly
+ │  │  │  ├─[**.**] sully
+ │  │  │  └─[*..**] silly
+ │  │  ├─[.-.**] hilly
+ │  │  ├─[..***] wryly
+ │  │  └─[...**] filly
+ │  │     ├─[*.***] fully
+ │  │     ├─[.****] willy
+ │  │     ├─[.-.**] imply
+ │  │     └─[...**] truly
+ │  └─[...*.] spilt
+ │     ├─[****.] spill
+ │     ├─[*.***] stilt
+ │     ├─[*.**-] still
+ │     ├─[*.**.] swill
+ │     │  └─[*.***] skill
+ │     ├─[*..*.] skull
+ │     │  └─[****.] skulk
+ │     ├─[..***] quilt
+ │     └─[..**.] frill
+ │        ├─[.****] krill
+ │        └─[..***] quill
+ ├─[...-*] elude
+ │  ├─[**.**] elide
+ │  ├─[**..*] elite
+ │  │  └─[**..*] elope
+ │  ├─[--.-*] ledge
+ │  │  └─[-*-.*] delve
+ │  ├─[--..*] liege
+ │  │  └─[-.-.*] melee
+ │  ├─[.**.*] flute
+ │  │  ├─[***.*] flume
+ │  │  │  └─[***.*] fluke
+ │  │  └─[.**.*] plume
+ │  ├─[.*.**] slide
+ │  │  └─[.****] glide
+ │  ├─[.*..*] slope
+ │  │  ├─[**..*] slime
+ │  │  ├─[.**.*] glove
+ │  │  └─[.*-.*] olive
+ │  ├─[.-*.*] louse
+ │  ├─[.--.*] pulse
+ │  │  └─[.*-.*] lunge
+ │  ├─[.-.**] tilde
+ │  ├─[.-.-*] lodge
+ │  └─[.-..*] lithe
+ │     ├─[*...*] loose
+ │     └─[-...*] solve
+ ├─[...--] repel
+ │  ├─[**.**] revel
+ │  ├─[*..*-] ruler
+ │  ├─[-***-] leper
+ │  ├─[-*-.*] peril
+ │  ├─[-*.*-] lever
+ │  ├─[-*.--] leery
+ │  ├─[-*..-] lemur
+ │  ├─[--.*-] elder
+ │  ├─[-.-*-] plier
+ │  ├─[-..**] gruel
+ │  ├─[-..*-] liver
+ │  │  ├─[**.**] liner
+ │  │  ├─[*.***] lover
+ │  │  ├─[*..**] loser
+ │  │  │  └─[**.**] lower
+ │  │  ├─[-*.**] filer
+ │  │  ├─[--.**] flier
+ │  │  │  └─[.--**] idler
+ │  │  └─[-..**] older
+ │  │     └─[.*.**] flyer
+ │  ├─[.*.**] level
+ │  │  └─[.*.**] jewel
+ │  ├─[.*..*] devil
+ │  ├─[.*..-] felon
+ │  │  ├─[-*-..] lefty
+ │  │  ├─[.****] melon
+ │  │  ├─[.**..] welsh
+ │  │  │  └─[.**.-] helix
+ │  │  ├─[.*-**] lemon
+ │  │  └─[.*-..] leggy
+ │  ├─[.-***] expel
+ │  ├─[.--*-] sleep
+ │  ├─[.----] slept
+ │  ├─[.-.**] steel
+ │  │  └─[..***] kneel
+ │  │     └─[..***] wheel
+ │  ├─[.-.*-] sleet
+ │  │  ├─[****.] sleek
+ │  │  └─[.****] fleet
+ │  ├─[.-.--] flesh
+ │  │  └─[.**..] elegy
+ │  ├─[.-..*] extol
+ │  ├─[.-..-] elfin
+ │  ├─[..***] impel
+ │  ├─[..-**] spiel
+ │  │  └─[.--**] pixel
+ │  ├─[..-*-] plied
+ │  ├─[...**] hotel
+ │  │  ├─[**.**] hovel
+ │  │  ├─[.****] motel
+ │  │  ├─[.*-**] towel
+ │  │  └─[.*.**] dowel
+ │  │     ├─[-*.**] model
+ │  │     ├─[.****] vowel
+ │  │     └─[.*.**] novel
+ │  └─[...*-] liken
+ │     ├─[**.**] linen
+ │     ├─[*..**] lumen
+ │     ├─[-*.*.] filet
+ │     ├─[--.*-] inlet
+ │     ├─[--.*.] islet
+ │     ├─[-..**] olden
+ │     └─[-..*.] golem
+ ├─[...-.] spoil
+ │  ├─[***.*] spool
+ │  ├─[**.*-] split
+ │  ├─[*-*.-] sloop
+ │  ├─[*-..-] slurp
+ │  │  └─[***.*] slump
+ │  ├─[*.*.*] stool
+ │  ├─[*.*.-] sloth
+ │  │  └─[***.*] slosh
+ │  ├─[*.-*-] solid
+ │  ├─[*..-*] swirl
+ │  ├─[*..--] sling
+ │  │  ├─[****.] slink
+ │  │  ├─[***..] slimy
+ │  │  └─[*--..] silky
+ │  ├─[*...-] slung
+ │  │  ├─[****.] slunk
+ │  │  ├─[***..] slush
+ │  │  └─[*--..] sulky
+ │  ├─[--..-] plush
+ │  │  └─[----.] lupus
+ │  ├─[-.*.-] gloss
+ │  │  └─[.****] floss
+ │  ├─[-.-.-] lousy
+ │  ├─[-...-] lusty
+ │  │  └─[---..] flush
+ │  ├─[.-*.*] prowl
+ │  ├─[.-*.-] loopy
+ │  ├─[.----] pilot
+ │  ├─[.--.-] polyp
+ │  ├─[.-.**] pupil
+ │  ├─[.-.*-] tulip
+ │  │  └─[..-*-] lipid
+ │  ├─[.-..-] plunk
+ │  │  ├─[***..] plump
+ │  │  ├─[*--..] pulpy
+ │  │  ├─[-*...] glyph
+ │  │  ├─[---..] lumpy
+ │  │  └─[--...] lymph
+ │  ├─[..*.*] drool
+ │  │  ├─[.**.*] growl
+ │  │  └─[..*.*] ghoul
+ │  ├─[..*.-] flour
+ │  │  ├─[****.] flout
+ │  │  ├─[***.*] floor
+ │  │  ├─[***..] flown
+ │  │  │  └─[***..] flood
+ │  │  ├─[.**.-] glory
+ │  │  └─[.**..] gloom
+ │  ├─[..-*-] login
+ │  │  └─[-*.*.] folio
+ │  ├─[..---] lingo
+ │  │  └─[--.-*] igloo
+ │  ├─[..-.*] mogul
+ │  ├─[..-.-] lorry
+ │  │  ├─[**..*] lofty
+ │  │  ├─[-*..*] moldy
+ │  │  └─[--..-] nylon
+ │  ├─[...**] until
+ │  │  └─[...**] vigil
+ │  ├─[...*-] lurid
+ │  │  ├─[*..**] livid
+ │  │  ├─[*..*.] limit
+ │  │  ├─[--.**] fluid
+ │  │  └─[--.*.] unlit
+ │  ├─[...-*] twirl
+ │  │  ├─[.-***] whirl
+ │  │  └─[..-.*] vinyl
+ │  ├─[...--] flirt
+ │  │  ├─[***.*] flint
+ │  │  ├─[***..] fling
+ │  │  ├─[*--.-] filth
+ │  │  ├─[*--..] filmy
+ │  │  ├─[.**.*] glint
+ │  │  ├─[.-*..] lying
+ │  │  ├─[.--.*] light
+ │  │  └─[.--..] milky
+ │  └─[....-] flung
+ │     ├─[****.] flunk
+ │     └─[***..] fluff
+ ├─[....*] noise
+ │  ├─[**.**] noose
+ │  ├─[*..**] nurse
+ │  ├─[*...*] nudge
+ │  │  └─[*...*] nerve
+ │  ├─[--*.*] opine
+ │  │  └─[*.***] ovine
+ │  ├─[--.-*] stone
+ │  │  ├─[*.***] shone
+ │  │  └─[*.*-*] snore
+ │  ├─[--..*] prone
+ │  │  ├─[*.***] phone
+ │  │  ├─[.****] drone
+ │  │  ├─[..***] ozone
+ │  │  └─[..*-*] gnome
+ │  ├─[-.*-*] spine
+ │  │  ├─[*-*-*] snipe
+ │  │  ├─[*.***] shine
+ │  │  │  └─[*.***] swine
+ │  │  └─[*.*-*] snide
+ │  ├─[-.*.*] unite
+ │  │  ├─[*-*.*] urine
+ │  │  ├─[.**.*] knife
+ │  │  ├─[.-*-*] twine
+ │  │  └─[.-*.*] whine
+ │  ├─[-.-**] rinse
+ │  ├─[-.--*] singe
+ │  ├─[-.-.*] untie
+ │  │  ├─[.-.**] genie
+ │  │  └─[.-.-*] hinge
+ │  ├─[-..**] tense
+ │  │  └─[.****] dense
+ │  │     └─[.****] sense
+ │  ├─[-..-*] ensue
+ │  ├─[-...*] prune
+ │  │  ├─[*..**] penne
+ │  │  ├─[.-.-*] genre
+ │  │  └─[..--*] venue
+ │  │     └─[..-**] undue
+ │  ├─[.****] poise
+ │  ├─[.*-.*] movie
+ │  ├─[.*.**] horse
+ │  │  ├─[**.**] house
+ │  │  ├─[.****] worse
+ │  │  ├─[.*-**] rouse
+ │  │  └─[.*.**] moose
+ │  │     ├─[**.**] mouse
+ │  │     ├─[.****] goose
+ │  │     └─[.*.**] posse
+ │  ├─[.*..*] forge
+ │  │  ├─[***.*] forte
+ │  │  ├─[.****] gorge
+ │  │  ├─[.**.*] horde
+ │  │  ├─[.*-**] rouge
+ │  │  ├─[.*--*] rogue
+ │  │  ├─[.*-.*] route
+ │  │  ├─[.*.**] gouge
+ │  │  │  └─[.*.**] dodge
+ │  │  └─[.*.-*] vogue
+ │  ├─[.-*.*] oxide
+ │  ├─[.--.*] diode
+ │  ├─[.-.**] those
+ │  │  ├─[.****] whose
+ │  │  └─[..***] prose
+ │  ├─[.-.-*] spoke
+ │  │  ├─[***.*] spore
+ │  │  ├─[*.***] stoke
+ │  │  │  └─[*.***] smoke
+ │  │  └─[*.*.*] shove
+ │  │     ├─[***.*] shore
+ │  │     ├─[*.***] stove
+ │  │     └─[*.*.*] smote
+ │  │        ├─[*.*-*] store
+ │  │        └─[*.*.*] swore
+ │  ├─[.-..*] trope
+ │  │  ├─[***.*] trove
+ │  │  ├─[-**.*] wrote
+ │  │  ├─[-.*.*] quote
+ │  │  ├─[.****] grope
+ │  │  ├─[.**-*] prove
+ │  │  ├─[.**.*] drove
+ │  │  │  ├─[-**.*] erode
+ │  │  │  ├─[.****] grove
+ │  │  │  └─[.**.*] froze
+ │  │  └─[..*.*] evoke
+ │  ├─[..***] guise
+ │  ├─[..*-*] spite
+ │  │  ├─[***.*] spire
+ │  │  │  └─[***.*] spike
+ │  │  ├─[*.***] suite
+ │  │  │  └─[*.***] smite
+ │  │  └─[*.*.*] shire
+ │  │     └─[*.*.*] seize
+ │  ├─[..*.*] pride
+ │  │  ├─[***.*] prime
+ │  │  │  └─[***.*] prize
+ │  │  ├─[-**.*] tripe
+ │  │  │  └─[.****] gripe
+ │  │  ├─[.**-*] drive
+ │  │  ├─[.**.*] write
+ │  │  │  ├─[.****] trite
+ │  │  │  └─[.**.*] grime
+ │  │  ├─[..***] guide
+ │  │  └─[..*.*] white
+ │  │     └─[..***] quite
+ │  ├─[..--*] siege
+ │  │  ├─[***.*] sieve
+ │  │  └─[--..*] issue
+ │  ├─[..-.*] dirge
+ │  │  ├─[-*-**] ridge
+ │  │  ├─[-*.**] midge
+ │  │  ├─[.*..*] pique
+ │  │  │  ├─[**..*] pixie
+ │  │  │  └─[.*..*] tithe
+ │  │  └─[.-*.*] eerie
+ │  ├─[...**] terse
+ │  │  ├─[*-.**] these
+ │  │  ├─[.****] verse
+ │  │  ├─[.*-**] reuse
+ │  │  ├─[.*.**] geese
+ │  │  └─[..***] purse
+ │  ├─[...-*] spree
+ │  │  ├─[*.*-*] serve
+ │  │  ├─[*.*.*] surge
+ │  │  └─[*..-*] segue
+ │  └─[....*] merge
+ │     ├─[-*..*] femme
+ │     ├─[--..*] theme
+ │     ├─[-.-.*] rhyme
+ │     ├─[-...*] thyme
+ │     ├─[.****] verge
+ │     ├─[.**.*] verve
+ │     ├─[.*-.*] revue
+ │     ├─[.*.**] hedge
+ │     │  └─[.****] wedge
+ │     ├─[.*..*] tepee
+ │     ├─[.-*.*] three
+ │     │  └─[..***] puree
+ │     ├─[.--.*] there
+ │     │  ├─[.****] where
+ │     │  └─[..--*] rupee
+ │     ├─[.-..*] etude
+ │     │  └─[-.-.*] queue
+ │     ├─[..***] purge
+ │     ├─[..-.*] prude
+ │     ├─[...**] fudge
+ │     │  └─[.****] judge
+ │     └─[...-*] fugue
+ ├─[....-] onset
+ │  ├─[*-.*-] often
+ │  ├─[*-.*.] owner
+ │  ├─[*..*-] outer
+ │  │  ├─[*.***] otter
+ │  │  └─[*.-**] other
+ │  ├─[*..*.] order
+ │  │  ├─[*.***] odder
+ │  │  └─[*..**] offer
+ │  ├─[*..-*] overt
+ │  ├─[-*.-.] envoy
+ │  │  ├─[**.**] enjoy
+ │  │  └─[**.*.] endow
+ │  ├─[--**.] nosey
+ │  ├─[--.*-] token
+ │  ├─[--.*.] women
+ │  │  ├─[**.**] woken
+ │  │  │  └─[**.**] woven
+ │  │  ├─[.*-*-] money
+ │  │  ├─[.*.**] dozen
+ │  │  └─[.*.*-] goner
+ │  │     └─[.***.] honey
+ │  ├─[--.--] tenor
+ │  ├─[--.-.] heron
+ │  │  ├─[.*.**] demon
+ │  │  └─[.*.*-] venom
+ │  ├─[-.**.] poser
+ │  ├─[-.*--] pesto
+ │  ├─[-.-*.] sower
+ │  ├─[-.---] ethos
+ │  ├─[-.--.] verso
+ │  │  └─[.-.*-] poesy
+ │  ├─[-..*-] tower
+ │  │  ├─[**.*.] totem
+ │  │  └─[-*.**] voter
+ │  ├─[-..*.] rover
+ │  │  ├─[**.**] roger
+ │  │  │  └─[**.**] rower
+ │  │  ├─[**.*.] rodeo
+ │  │  ├─[.****] hover
+ │  │  │  └─[.****] mover
+ │  │  ├─[.*.**] poker
+ │  │  │  ├─[**.**] power
+ │  │  │  ├─[.****] joker
+ │  │  │  └─[.*.**] mower
+ │  │  │     ├─[-*.**] homer
+ │  │  │     ├─[.*-**] wooer
+ │  │  │     └─[.*.**] foyer
+ │  │  ├─[.*.*.] dopey
+ │  │  │  ├─[-*.*.] modem
+ │  │  │  └─[.*.**] gooey
+ │  │  └─[.--*.] video
+ │  ├─[-..-*] depot
+ │  ├─[-..--] metro
+ │  │  ├─[-*-.*] tempo
+ │  │  ├─[.****] retro
+ │  │  └─[.**.-] detox
+ │  ├─[-..-.] error
+ │  │  └─[*..-.] epoxy
+ │  ├─[.****] unset
+ │  ├─[.*-*.] sneer
+ │  ├─[.*.**] unmet
+ │  ├─[.*.*-] inter
+ │  │  └─[.****] enter
+ │  ├─[.*.*.] unfed
+ │  │  ├─[**.**] unwed
+ │  │  ├─[**.*-] under
+ │  │  ├─[.***.] infer
+ │  │  ├─[.*.**] kneed
+ │  │  ├─[.*.*-] index
+ │  │  └─[.*.*.] inner
+ │  ├─[.*.-*] inert
+ │  │  └─[***.*] inept
+ │  ├─[.*.--] entry
+ │  ├─[.*.-.] ennui
+ │  │  └─[**...] enemy
+ │  ├─[.-**.] risen
+ │  ├─[.-*-.] resin
+ │  ├─[.--*.] semen
+ │  │  ├─[**.**] seven
+ │  │  ├─[*-.**] sheen
+ │  │  ├─[*..**] siren
+ │  │  └─[*..*-] sinew
+ │  ├─[.---*] spent
+ │  ├─[.----] stern
+ │  │  └─[***.*] stein
+ │  ├─[.---.] spend
+ │  ├─[.-.**] tenet
+ │  ├─[.-.*.] diner
+ │  │  ├─[-*-*.] widen
+ │  │  ├─[.****] miner
+ │  │  │  └─[.****] finer
+ │  │  ├─[.***.] piney
+ │  │  ├─[.*-*-] ripen
+ │  │  ├─[.*-*.] given
+ │  │  │  └─[.*-**] vixen
+ │  │  ├─[..**-] renew
+ │  │  ├─[..-**] newer
+ │  │  │  └─[**.**] never
+ │  │  ├─[..-*-] preen
+ │  │  │  └─[.****] green
+ │  │  └─[..-*.] hymen
+ │  │     └─[...**] queen
+ │  ├─[.-.-*] event
+ │  ├─[.-.--] trend
+ │  │  └─[*.--.] tenth
+ │  ├─[.-.-.] nerdy
+ │  │  ├─[**.**] needy
+ │  │  ├─[**...] neigh
+ │  │  ├─[-**..] rerun
+ │  │  ├─[-*-..] reign
+ │  │  ├─[-*.-.] deign
+ │  │  │  └─[**-.-] denim
+ │  │  ├─[-*..*] penny
+ │  │  ├─[-*...] feign
+ │  │  ├─[--.-.] fiend
+ │  │  ├─[--..-] eying
+ │  │  └─[--...] eking
+ │  ├─[..***] reset
+ │  │  └─[..***] upset
+ │  ├─[..**.] miser
+ │  │  └─[.****] wiser
+ │  │     └─[.****] riser
+ │  ├─[..*--] testy
+ │  │  └─[.****] zesty
+ │  ├─[..*-.] pesky
+ │  ├─[..-**] sheet
+ │  │  └─[*.***] sweet
+ │  ├─[..-*-] steer
+ │  │  ├─[****.] steed
+ │  │  │  └─[****.] steep
+ │  │  └─[---**] ester
+ │  ├─[..-*.] sweep
+ │  │  ├─[*--*.] sewer
+ │  │  ├─[*-.*.] shrew
+ │  │  ├─[*.***] sheep
+ │  │  ├─[*.**-] speed
+ │  │  ├─[*.**.] sheer
+ │  │  ├─[*.-*.] sever
+ │  │  ├─[*..*-] super
+ │  │  │  └─[*.-*.] spied
+ │  │  ├─[*..*.] skier
+ │  │  │  ├─[*.**.] shied
+ │  │  │  └─[*..**] surer
+ │  │  └─[-..*.] usher
+ │  ├─[..--*] guest
+ │  │  ├─[.****] quest
+ │  │  ├─[..***] wrest
+ │  │  ├─[..*-*] swept
+ │  │  └─[..-**] heist
+ │  │     └─[.-***] exist
+ │  ├─[..---] setup
+ │  │  └─[-***.] fetus
+ │  ├─[..--.] serif
+ │  │  ├─[***..] serum
+ │  │  ├─[**...] seedy
+ │  │  ├─[*--..] sperm
+ │  │  ├─[*-.*.] sheik
+ │  │  ├─[---.-] fresh
+ │  │  ├─[---..] dress
+ │  │  │  └─[.****] press
+ │  │  └─[--...] guess
+ │  ├─[...**] rivet
+ │  │  ├─[-..**] greet
+ │  │  │  └─[---**] egret
+ │  │  ├─[.-.**] quiet
+ │  │  ├─[..***] duvet
+ │  │  └─[...**] tweet
+ │  ├─[...*-] meter
+ │  │  ├─[-.-**] timer
+ │  │  ├─[.****] deter
+ │  │  ├─[.--**] ether
+ │  │  ├─[.--*.] tweed
+ │  │  ├─[..***] utter
+ │  │  ├─[..-**] tiger
+ │  │  │  └─[*..**] truer
+ │  │  ├─[..-*-] tried
+ │  │  │  └─[*-.*.] threw
+ │  │  └─[..-*.] thief
+ │  ├─[...*.] drier
+ │  │  ├─[****.] dried
+ │  │  ├─[**.**] dryer
+ │  │  ├─[*.-**] diver
+ │  │  ├─[*..**] defer
+ │  │  ├─[-***.] pried
+ │  │  │  └─[.****] fried
+ │  │  ├─[-*.*.] greed
+ │  │  │  └─[.****] freed
+ │  │  ├─[---**] rider
+ │  │  ├─[--.**] ruder
+ │  │  ├─[-.-**] wider
+ │  │  ├─[-..**] udder
+ │  │  ├─[.***.] grief
+ │  │  ├─[.*.**] freer
+ │  │  ├─[.--**] riper
+ │  │  │  └─[**.**] river
+ │  │  ├─[.-.**] purer
+ │  │  │  └─[..-**] refer
+ │  │  ├─[..-**] viper
+ │  │  │  ├─[-*.**] giver
+ │  │  │  ├─[.****] piper
+ │  │  │  └─[.*.**] fixer
+ │  │  └─[...**] fewer
+ │  │     ├─[**.**] fever
+ │  │     ├─[.-.**] queer
+ │  │     └─[...**] hyper
+ │  │        └─[..***] upper
+ │  ├─[...-*] merit
+ │  │  ├─[-*-**] remit
+ │  │  ├─[.*-**] refit
+ │  │  ├─[.--.*] erupt
+ │  │  │  └─[*-..*] exert
+ │  │  ├─[.-.-*] eight
+ │  │  └─[.-..*] theft
+ │  ├─[...--] depth
+ │  │  ├─[**.*.] deity
+ │  │  ├─[-**-.] tepid
+ │  │  ├─[-*.-.] fetid
+ │  │  │  └─[.*-.-] teddy
+ │  │  ├─[.*-*.] petty
+ │  │  ├─[.*.**] teeth
+ │  │  ├─[.*.*-] hefty
+ │  │  ├─[.*.*.] jetty
+ │  │  ├─[.*.-.] retry
+ │  │  ├─[.-**.] empty
+ │  │  ├─[.--*.] piety
+ │  │  └─[.-.--] their
+ │  └─[...-.] ferry
+ │     ├─[**--.] femur
+ │     ├─[*-.**] fiery
+ │     ├─[--..*] edify
+ │     ├─[.****] merry
+ │     ├─[.**.*] perky
+ │     │  └─[.****] jerky
+ │     ├─[.*--.] demur
+ │     ├─[.*-.*] reedy
+ │     ├─[.*.*.] weird
+ │     ├─[.*..*] weedy
+ │     │  └─[.**.*] geeky
+ │     ├─[.*...] weigh
+ │     ├─[.-.**] query
+ │     │  └─[..***] every
+ │     └─[.-...] equip
+ └─[.....] storm
+    ├─[****.] story
+    │  └─[****.] stork
+    ├─[***.-] stomp
+    ├─[***..] stood
+    │  ├─[****.] stoop
+    │  └─[***..] stony
+    │     └─[***..] stout
+    ├─[**.-.] strip
+    │  └─[***..] strut
+    ├─[**..-] stump
+    ├─[**...] stung
+    │  ├─[****.] stunk
+    │  │  └─[****.] stunt
+    │  ├─[***..] study
+    │  │  └─[***..] stuff
+    │  ├─[**.**] sting
+    │  ├─[**.*.] stink
+    │  │  └─[****.] stint
+    │  └─[**...] stiff
+    ├─[*-**.] snort
+    │  └─[*.***] short
+    │     └─[*.***] sport
+    ├─[*-*..] shout
+    │  ├─[***.*] shoot
+    │  ├─[*-*.-] sooth
+    │  ├─[*.***] snout
+    │  │  └─[*.***] spout
+    │  └─[*.*.-] sooty
+    ├─[*--..] south
+    ├─[*-.*.] shirt
+    │  ├─[*.***] skirt
+    │  └─[*..**] spurt
+    ├─[*-..-] smith
+    ├─[*-...] shunt
+    │  ├─[**..*] shift
+    │  ├─[*-..*] sight
+    │  ├─[*-..-] sixth
+    │  ├─[*...*] swift
+    │  └─[*...-] sixty
+    ├─[*.**.] shorn
+    │  ├─[*.***] sworn
+    │  └─[*.**.] sword
+    ├─[*.*.-] smoky
+    ├─[*.*..] shown
+    │  ├─[****.] showy
+    │  ├─[***..] shook
+    │  ├─[*.**-] snowy
+    │  ├─[*.*-*] swoon
+    │  ├─[*.*-.] swoop
+    │  ├─[*.*.*] spoon
+    │  ├─[*.*.-] snoop
+    │  └─[*.*..] spook
+    │     └─[****.] spoof
+    ├─[*.-*.] sorry
+    ├─[*.-..] sound
+    │  ├─[**...] soggy
+    │  └─[*-.-*] synod
+    ├─[*..*-] smirk
+    ├─[*..*.] spurn
+    │  └─[*..*.] shirk
+    ├─[*..-.] sprig
+    │  ├─[*-*..] syrup
+    │  └─[*.*.*] shrug
+    ├─[*...-] skimp
+    ├─[*....] spiny
+    │  ├─[***.*] spiky
+    │  ├─[**.*.] spunk
+    │  ├─[*.***] shiny
+    │  ├─[*.**.] suing
+    │  │  └─[*.***] swing
+    │  ├─[*.*-.] sniff
+    │  ├─[*.*..] swish
+    │  │  └─[*.*..] skiff
+    │  ├─[*.-.*] sissy
+    │  ├─[*.-..] sushi
+    │  ├─[*..**] sunny
+    │  ├─[*..*.] swung
+    │  │  └─[*.**.] skunk
+    │  ├─[*..-.] snuff
+    │  └─[*....] shush
+    ├─[--*-.] frost
+    │  └─[.-***] roost
+    ├─[--*..] ghost
+    ├─[----.] torus
+    │  ├─[***.-] torso
+    │  └─[-**.-] worst
+    ├─[---.-] moist
+    ├─[---..] hoist
+    │  ├─[.****] foist
+    │  │  └─[.****] joist
+    │  ├─[.*--*] posit
+    │  ├─[.*.**] joust
+    │  └─[.-.--] gusto
+    ├─[--.-.] trust
+    │  ├─[****.] truss
+    │  ├─[**.**] tryst
+    │  ├─[-----] rusty
+    │  ├─[.*.**] wrist
+    │  └─[.-.**] first
+    ├─[--..-] midst
+    │  └─[*..--] musty
+    ├─[--...] dusty
+    │  ├─[.****] gusty
+    │  ├─[..*-.] visit
+    │  ├─[..--*] tipsy
+    │  └─[..--.] twist
+    ├─[-.*-.] dross
+    │  └─[.****] gross
+    ├─[-.*..] kiosk
+    ├─[-.--.] visor
+    ├─[-.-.-] mossy
+    ├─[-.-..] noisy
+    ├─[-..*.] usurp
+    ├─[-..-*] prism
+    ├─[-..-.] risky
+    │  ├─[-*-..] virus
+    │  └─[----.] frisk
+    ├─[-...-] mushy
+    │  ├─[***.*] musky
+    │  ├─[*--..] minus
+    │  ├─[*.*.*] missy
+    │  └─[-*--.] humus
+    ├─[-....] fishy
+    │  ├─[*.*.*] fussy
+    │  ├─[.**.*] wispy
+    │  ├─[.*-.*] gipsy
+    │  ├─[.---.] whisk
+    │  ├─[.--..] using
+    │  ├─[..***] pushy
+    │  ├─[..*-*] husky
+    │  │  └─[***.*] hussy
+    │  ├─[..*.*] dusky
+    │  └─[..-.*] gypsy
+    ├─[.-**.] thorn
+    ├─[.-*-.] trout
+    │  ├─[***..] troop
+    │  ├─[-**.-] froth
+    │  ├─[.****] grout
+    │  └─[.**.*] droit
+    │     └─[.**.*] front
+    ├─[.-*..] thong
+    │  ├─[*-*..] tooth
+    │  ├─[-**..] photo
+    │  └─[--*..] quoth
+    ├─[.--*.] intro
+    ├─[.----] tumor
+    │  └─[-.-**] motor
+    ├─[.---.] north
+    │  ├─[.****] forth
+    │  │  └─[.****] worth
+    │  ├─[.***.] forty
+    │  ├─[.*--.] rotor
+    │  ├─[.-*--] throw
+    │  └─[.---.] tutor
+    ├─[.--.-] month
+    │  ├─[**--.] mount
+    │  ├─[**.**] mouth
+    │  ├─[**.*.] motto
+    │  ├─[**.-.] motif
+    │  └─[-*.-.] vomit
+    ├─[.--..] donut
+    │  ├─[*-..-] ditto
+    │  ├─[-*..-] toddy
+    │  ├─[--.--] outdo
+    │  ├─[--..*] idiot
+    │  ├─[.*-.*] point
+    │  │  └─[.****] joint
+    │  ├─[.*-.-] toxin
+    │  ├─[.*.--] pouty
+    │  │  ├─[.***-] youth
+    │  │  └─[.**-.] tough
+    │  ├─[.-*--] junto
+    │  ├─[.-*.-] pinto
+    │  ├─[.--.*] ingot
+    │  ├─[.-.-*] ought
+    │  ├─[.-.--] outgo
+    │  └─[.-..*] pivot
+    ├─[.-.*.] third
+    ├─[.-.-*] thrum
+    ├─[.-.--] mirth
+    │  └─[-.--.] trump
+    ├─[.-.-.] grunt
+    │  ├─[*-..-] girth
+    │  ├─[--..*] right
+    │  ├─[.***-] trunk
+    │  ├─[.**.*] fruit
+    │  ├─[.**.-] truth
+    │  ├─[.*.**] print
+    │  ├─[.*..*] drift
+    │  ├─[.*..-] fritz
+    │  └─[.-..-] dirty
+    ├─[.-..-] minty
+    │  ├─[**.-.] might
+    │  ├─[-*.-.] timid
+    │  └─[-..-.] thump
+    ├─[.-...] think
+    │  ├─[****.] thing
+    │  ├─[***..] thigh
+    │  ├─[*--..] tight
+    │  ├─[*.**.] tying
+    │  ├─[*.*..] twixt
+    │  ├─[----.] night
+    │  │  └─[**.--] ninth
+    │  ├─[---..] fight
+    │  │  ├─[**.--] fifth
+    │  │  ├─[.****] wight
+    │  │  ├─[.*.*-] pithy
+    │  │  └─[.*.--] width
+    │  ├─[-.*-.] unity
+    │  ├─[-.--.] input
+    │  │  └─[-*.-*] unfit
+    │  ├─[-.-.-] kitty
+    │  ├─[-.-..] ditty
+    │  │  ├─[**--.] digit
+    │  │  ├─[.****] witty
+    │  │  └─[.*.**] fifty
+    │  ├─[-..-.] nutty
+    │  └─[-....] putty
+    ├─[..**.] ivory
+    │  └─[..**.] fjord
+    ├─[..*-*] groom
+    ├─[..*--] roomy
+    ├─[..*-.] frond
+    │  ├─[***-.] frown
+    │  ├─[-**..] proof
+    │  ├─[.***.] prong
+    │  │  ├─[.****] wrong
+    │  │  └─[.***.] irony
+    │  ├─[.**--] drown
+    │  ├─[.**-.] groin
+    │  │  └─[***.*] grown
+    │  ├─[.**.*] proud
+    │  ├─[.**.-] droop
+    │  └─[.**..] group
+    │     └─[.**.-] proxy
+    ├─[..*.-] moody
+    ├─[..*..] goody
+    │  ├─[***.*] goofy
+    │  ├─[.****] woody
+    │  ├─[.**.*] woozy
+    │  ├─[.-*-.] ovoid
+    │  ├─[.-*..] whoop
+    │  ├─[..*.*] phony
+    │  └─[..*..] known
+    ├─[..-*-] mourn
+    ├─[..-*.] gourd
+    │  ├─[.*.*-] dowry
+    │  ├─[.*.*.] worry
+    │  └─[.-.*-] hydro
+    ├─[..--*] forum
+    ├─[..---] humor
+    │  ├─[-.---] morph
+    │  ├─[.****] rumor
+    │  ├─[..-**] minor
+    │  ├─[..-*-] moron
+    │  └─[..---] primo
+    ├─[..--.] round
+    │  ├─[***..] rough
+    │  ├─[**..-] rowdy
+    │  ├─[*-.*.] rhino
+    │  ├─[*-...] rigor
+    │  ├─[-*.*.] horny
+    │  ├─[-*.--] donor
+    │  ├─[-*.-.] honor
+    │  ├─[-*..-] wordy
+    │  ├─[-*...] forgo
+    │  ├─[---..] furor
+    │  │  └─[.****] juror
+    │  └─[--...] prior
+    │     └─[..-**] vigor
+    ├─[..-.*] opium
+    │  └─[-.*.*] idiom
+    ├─[..-.-] mound
+    ├─[..-..] howdy
+    │  ├─[**.-.] hound
+    │  ├─[*-...] hippo
+    │  ├─[-*.-.] dough
+    │  ├─[.****] dowdy
+    │  ├─[.**-*] downy
+    │  ├─[.*--.] wound
+    │  ├─[.*.-*] dodgy
+    │  ├─[.*.-.] pound
+    │  │  ├─[.****] found
+    │  │  └─[.*.*-] doing
+    │  ├─[.*..*] foggy
+    │  │  └─[.*..*] poppy
+    │  ├─[.*..-] young
+    │  ├─[.*...] going
+    │  ├─[.---.] widow
+    │  ├─[.--..] owing
+    │  ├─[.-.-.] dingo
+    │  └─[.-...] union
+    │     └─[.****] onion
+    ├─[...*-] myrrh
+    ├─[...*.] hurry
+    │  ├─[.****] furry
+    │  └─[.*.*.] quirk
+    ├─[...--] grimy
+    │  └─[.-.-*] murky
+    ├─[...-.] grind
+    │  ├─[**...] gruff
+    │  ├─[-***.] wring
+    │  ├─[-*.*.] wrung
+    │  ├─[---.*] rigid
+    │  ├─[.***-] drink
+    │  ├─[.**..] privy
+    │  ├─[.*-.*] druid
+    │  ├─[.*.*-] drunk
+    │  └─[.-..-] ruddy
+    ├─[....*] minim
+    ├─[....-] dumpy
+    │  ├─[***.*] dummy
+    │  ├─[-**..] humid
+    │  ├─[-*-.*] muddy
+    │  ├─[.****] jumpy
+    │  ├─[.***.] humph
+    │  ├─[.**.*] gummy
+    │  │  └─[.****] mummy
+    │  ├─[..***] wimpy
+    │  ├─[..**-] nymph
+    │  └─[..--*] pygmy
+    └─[.....] dying
+       ├─[*----] dingy
+       ├─[*--..] dizzy
+       ├─[----.] windy
+       ├─[---.-] giddy
+       ├─[--..-] pudgy
+       ├─[-.--.] undid
+       ├─[-.-..] vivid
+       ├─[.****] vying
+       ├─[.-**.] whiny
+       ├─[.-*-.] unify
+       ├─[.--*.] ninny
+       ├─[.---.] pinky
+       │  └─[.****] kinky
+       ├─[.--.-] piggy
+       ├─[.--..] jiffy
+       │  ├─[.*-.*] fizzy
+       │  └─[.*..*] hippy
+       ├─[.-.*.] funny
+       ├─[.-.-.] hunky
+       │  └─[.****] funky
+       ├─[.-..-] guppy
+       ├─[.-...] puffy
+       │  ├─[**..*] puppy
+       │  └─[.*-.*] fuzzy
+       ├─[..*..] whiff
+       ├─[..---] fungi
+       └─[..--.] unzip
