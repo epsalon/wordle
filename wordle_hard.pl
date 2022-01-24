@@ -80,7 +80,7 @@ sub rank_guesses {
     my @out;
     my $i;
     for my $g (@$words) {
-        say STDERR $i unless (++$i & ((1<<12) - 1));
+        #say STDERR $i unless (++$i & ((1<<12) - 1));
         my $splits = split_answers($answers, $g);
         my @splits = values(%$splits);
         my $ent = entropy(\@splits);
@@ -108,17 +108,24 @@ sub mktree {
     my $hard = shift;
     return undef unless $depth;
     return [@$answers] if (@$answers == 1);
+    return undef unless $depth > 1;
+    # say STDERR "[$depth] ", join(';', @$answers);
     my @guesses = rank_guesses($answers, $words);
-    GUESS: for my $g (@guesses) {
-        say STDERR "[$depth] TRYING GUESS $g" if ($depth > 3);
+    GUESS: for my $g (@guesses[0..100]) {
+        say STDERR "[$depth] TRYING GUESS $g" if ($depth > 2);
         my $splits = split_answers($answers, $g);
         my $gsplits = split_answers($words, $g);
         my %tree;
-        my @skeys = sort {quality($b) <=> quality($a)} keys(%$splits);
+        my @skeys;
+        if ($hard) {
+            my @skeys = sort {quality($b) <=> quality($a)} keys(%$splits);
+        } else {
+            my @skeys = sort {@{$splits->{$b}} <=> @{$splits->{$a}}} keys(%$splits);
+        }
         for my $k (@skeys) {
             next if $k eq '*****';
             my $count = @{$splits->{$k}};
-            say STDERR "Pattern $k for $g ($count words)" if ($depth > 4);
+            say STDERR "Pattern $k for $g ($count words)" if ($count > 10);
             if ($hard && quality($k) >= 20 && $count >= $depth-1) {
                 say STDERR "early break depth=$depth count=$count";
                 next GUESS;
@@ -133,4 +140,4 @@ sub mktree {
     return undef;
 }
 
-say encode_json(mktree(\@ANSWERS,\@ALLWORDS, 5, 0));
+say encode_json(mktree(\@ANSWERS,\@ALLWORDS, 4, 0));
