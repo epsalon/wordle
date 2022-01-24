@@ -78,7 +78,11 @@ sub rank_guesses {
     my $words = shift // \@ALLWORDS;
     # To reduce repeat computation, @ALLWORDS is pre-sorted based on rank_guesses
     return @ALLWORDS if (@$words == @ALLWORDS && @$answers == @ANSWERS);
-    return @ANSWERS if (@$words == @ANSWERS && @$answers == @ANSWERS);
+    if (@$words == @ANSWERS && @$answers == @ANSWERS) {
+        if (join(';', @$words) eq join(';', @ANSWERS)) {
+            return @ANSWERS;
+        }
+    }
     #return ("irate") if (@$words == @ALLWORDS);
     my @out;
     my $i;
